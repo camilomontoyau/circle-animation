@@ -1,0 +1,14 @@
+1) debo dibujar circulo en el canvas
+2) el circulo debe tener relleno de color
+3) el circulo debe moverse
+4) cada vez que el círculo
+choca con las paredes del canvas
+debe rebotar
+plus:
+plus 1: tener un control que aumente 
+o dismiya la velocidad del círculo
+plus 2: tener un control que cambie el color
+del círculo
+plus 3: mostrar un contador que empiece en cero y
+aumente el número cada vez que el círculo 
+choca con las paredes
